@@ -1,0 +1,2 @@
+# IKT-hf
+Házi feladat
